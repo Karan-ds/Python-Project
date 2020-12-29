@@ -1,3 +1,6 @@
+# Computer Simulation Program - A robust framework technique to solve real world problems through simulating  random
+# Scenarios.
+
 # Top-Down design Base Algorithm Structure
 # Program simulates Win Probability for RacquetBall based on WinServe probability
 
@@ -70,3 +73,8 @@ def report_card(a, b):
 
 if __name__ == '__main__':
     main()
+
+# Sample Prog -
+# Prob - A = 0.65
+# Prob - B = 0.6
+# No of games Simulated - 5000
